@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.heading-style{
+  color: #282c34;
+  background-color: aquamarine;
+}
+.user{
+  background-image: linear-gradient(violet, blueviolet);
+  padding: 10px;
+  margin: 20px;
+  border-radius: 10px;
+}
